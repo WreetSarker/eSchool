@@ -1,0 +1,49 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.top-banner{
+    background-color: rgb(211, 253, 211,.3);
+}
+.signin{
+    color: white;
+    text-align: center;
+    background-color: rgb(54, 134, 54,.8);
+    border-radius: 20px;
+    width: 6em;
+}
+.categories img{
+    width: 100px;
+}
+.school-card-footer{
+    background-color: white;
+    border: 0;
+}
+.school-gutter{
+    background-color: rgb(241, 202, 241, .3);
+}
+.testimonial img{
+    width: 100px;
+}
+.testimonial{
+    margin-top: 100px !important; 
+    margin-bottom: 100px;
+}
+.test{
+    margin-bottom: 70px !important;
+}
+.bottom-banner{
+    background-color: rgb(34, 26, 26);
+    color: rgb(253, 253, 253);
+}
+#line{
+    font-size:x-small;
+    text-align: center;
+    margin-top: 15%;
+}
+.footer{
+    text-align: center;
+    font-size: xx-small;
+}
+
